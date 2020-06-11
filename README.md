@@ -26,5 +26,5 @@
 | Above 4G decoding | 大于 4G 地址空间解码 |
 | CSM | 兼容性支持模块 |
 |IGPU|IGPU多监视器|
-|XHCI Hand-off|XHCI Hand-off
+|XHCI Hand-off|XHCI Hand-off|
 注意 关于CSM看网上教程都说要关闭它，但是我关闭了之后有一定概率引导失败，所以就把它打开了
